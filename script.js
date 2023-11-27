@@ -1,0 +1,1 @@
+document.write("<div style='text-align: center;'>copyright Obay Markobay Surebay 2023");

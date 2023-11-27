@@ -1,0 +1,13 @@
+.nav-item{
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.col-md-4{
+  padding: 15px;
+}
+
+.col-md-8{
+  vertical-align: middle;
+  align-items: center;
+}
